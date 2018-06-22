@@ -1,0 +1,8 @@
+body{
+    background: blue;
+}        
+
+p, table, h1, body, a {
+    color: white;
+    border: white;
+}

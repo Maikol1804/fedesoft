@@ -1,0 +1,23 @@
+{
+  "name": "fedesoft",
+  "version": "1.0.0",
+  "description": "This is a repository with information about fedesoft class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maikol1804/fedesoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maikol1804/fedesoft/issues"
+  },
+  "homepage": "https://github.com/Maikol1804/fedesoft#readme",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}

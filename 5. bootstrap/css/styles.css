@@ -1,0 +1,25 @@
+h2.lecture-title {
+  margin: 30px 0;
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  color: #C2185B;
+}
+
+article {
+  padding-top: 30px;
+}
+
+.service {
+  padding: 150px 0;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+span {
+  font-size: 4em;
+  color: red;
+}
+

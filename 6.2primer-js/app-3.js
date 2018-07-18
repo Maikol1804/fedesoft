@@ -75,3 +75,6 @@ nombreEdad()
 var a = []
 datos.filter((d)=>{if(d.id %2 == 0){a.push(d)}});
 console.log(a);
+
+var $ele = document.querySelector("div.row>ul");
+console.log($ele);

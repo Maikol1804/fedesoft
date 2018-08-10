@@ -23,6 +23,9 @@ app.use(session({
 app.use(bodyParser.urlencoded({
     extended: true
 }));
+
+app.use(bodyParser.json());
+
 app.set('view engine', 'ejs');
 
 app.get("/", (request, response) => {
